@@ -25,7 +25,9 @@
   <img src="https://img.shields.io/badge/Jakarta-Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/STS-Spring Boot-5EAB4E?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Apache-Maven-C71A36?style=for-the-badge&logo=apache&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/pgAdmin-Postgresql-0064a5?style=for-the-badge&logo=postgres&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/pgAdmin-Postgresql-4479A1?style=for-the-badge&logo=postgres&logoColor=white" />&nbsp;&nbsp;
+  <!--<img src="https://img.shields.io/badge/pgAdmin-Postgresql-0064a5?style=for-the-badge&logo=postgres&logoColor=white" />&nbsp;&nbsp;-->
+  <img src="https://img.shields.io/badge/pgAdmin-Postgresql-4479A1?style=for-the-badge&logo=postgres&logoColor=white" />&nbsp;&nbsp;
 </p>
 <h5><i>Others.</i></h5>
 <p >
