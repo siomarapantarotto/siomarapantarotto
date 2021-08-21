@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Oracle-GlassFish-40D1F5?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/DB-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DB-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Scrum Allience-Agile-009FDA?style=for-the-badge&logo=scrumAllience&logoColor=white" />&nbsp;&nbsp;
 </p>
 
