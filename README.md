@@ -34,23 +34,21 @@
   <img src="https://img.shields.io/badge/CSS-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/DB-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Scrum Allience-Agile-009FDA?style=for-the-badge&logo=scrumAllience&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/etc-....-black?style=for-the-badge&logo=plus&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
 <hr>
 <h4>Here's what I am snooping at...</h4>
 <p >
-  <img src="https://img.shields.io/badge/Dart-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Dart-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
 <hr>
 <p align='center'>
-  <a href="#"><img src="https://img.shields.io/badge/author-Siomara%20Cintia%20Pantarotto-F0F2F0"></a>
-  <a href="#"><img src="https://img.shields.io/badge/local-Brasilia%20DF%20Brazil-F0F2F0"></a>
-  <a href="#"><img src="https://img.shields.io/badge/version-August,2021-F0F2F0"></a>
-  <a href="https://siomara.com.br/"><img src="https://img.shields.io/badge/visit-My Online Resume-F0F2F0"></a>
-  <a href="https://siomara.com.br/ResumePANTAROTTO.pdf"><img src="https://img.shields.io/badge/download-My PDF Resume-F0F2F0"></a>
+  <a href="#"><img src="https://img.shields.io/badge/author-Siomara%20Cintia%20Pantarotto-F0F2F0"></a>&nbsp;&nbsp;
+  <!--<a href="#"><img src="https://img.shields.io/badge/local-Brasilia%20DF%20Brazil-F0F2F0"></a>&nbsp;&nbsp;-->
+  <!--<a href="#"><img src="https://img.shields.io/badge/version-August,2021-F0F2F0"></a>&nbsp;&nbsp;-->
+  <a href="https://siomara.com.br/"><img src="https://img.shields.io/badge/visit-My Online Resume-F0F2F0"></a>&nbsp;&nbsp;
+  <a href="https://siomara.com.br/ResumePANTAROTTO.pdf"><img src="https://img.shields.io/badge/download-My PDF Resume-F0F2F0"></a>&nbsp;&nbsp;
 </p>
-
