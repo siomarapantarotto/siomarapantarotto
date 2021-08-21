@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Jakarta-Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Android%20Studio-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Build%20Tool-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Google%20Cloud-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;
 </p>
 <h5><i>Java/Spring REST API Development.</i></h5>
 <p >
