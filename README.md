@@ -29,10 +29,10 @@
   <img src="https://img.shields.io/badge/Apache-Maven-C71A36?style=for-the-badge&logo=apache&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/pgAdmin-Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JSON-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Apache-Tomcat-F8DC75?style=for-the-badge&logo=tomcat&logoColor=white" />&nbsp;&nbsp;
 </p>
 <h5><i>Others.</i></h5>
 <p >
-  <img src="https://img.shields.io/badge/Apache-Tomcat-F8DC75?style=for-the-badge&logo=tomcat&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Oracle-GlassFish-40D1F5?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/DB-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
