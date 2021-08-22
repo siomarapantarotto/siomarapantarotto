@@ -50,6 +50,6 @@
 <!-- FOOTER (Author / Visit My Online Resume / Download My PDF Resume) -->
 <hr>
 <p align='center'>
-  <a href="#"><img src="https://img.shields.io/badge/author-Siomara%20Cintia%20Pantarotto-008080"></a>&nbsp;&nbsp;
-  <a href="https://siomara.com.br/"><img src="https://img.shields.io/badge/visit-My Online Resume-008080"></a>&nbsp;&nbsp;
-  <a href="https://siomara.com.br/ResumePANTAROTTO.pdf"><img src="https://img.shields.io/badge/download-My PDF Resume-008080"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/author-Siomara%20Cintia%20Pantarotto-008080?style=social"></a>&nbsp;&nbsp;
+  <a href="https://siomara.com.br/"><img src="https://img.shields.io/badge/visit-My Online Resume-008080?style=social"></a>&nbsp;&nbsp;
+  <a href="https://siomara.com.br/ResumePANTAROTTO.pdf"><img src="https://img.shields.io/badge/download-My PDF Resume-008080?style=social"></a>&nbsp;&nbsp;
