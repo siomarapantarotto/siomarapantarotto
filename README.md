@@ -14,7 +14,7 @@
 
 <!-- RECENTLY STUFF... -->
 <hr>
-<h4>Here's all the stuff I've been doing recently...</h4>
+<h3>Here's all the stuff I've been doing recently...</h3>
 <h5><i>Java/Android Mobile App Development.</i></h5>
 <p >
   <img src="https://img.shields.io/badge/Jakarta-Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
@@ -42,7 +42,7 @@
 
 <!-- SNOOPING AT... -->
 <hr>
-<h4>Here's what I am snooping at...</h4>
+<h3>Here's what I am snooping at...</h3>
 <p >
   <img src="https://img.shields.io/badge/Dart-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
 </p>
