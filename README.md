@@ -51,6 +51,7 @@
 <p >
   <img src="https://img.shields.io/badge/SBT-Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Express-NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Cloud-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;  
   <img src="https://img.shields.io/badge/Dart-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JWT-JSON%20Web%20Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />&nbsp;&nbsp;
 </p>
