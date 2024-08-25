@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/STS-Spring Boot-5EAB4E?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/STS-Spring Data-5EAB4E?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/STS-Spring MVC-5EAB4E?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/STS-Spring Security JWT-5EAB4E?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;   
+  <img src="https://img.shields.io/badge/STS-Spring%20Security%20JWT-5EAB4E?style=for-the-badge&logo=spring%20security&logoColor=white" />&nbsp;&nbsp;   
   <img src="https://img.shields.io/badge/Apache-Tomcat-F8DC75?style=for-the-badge&logo=apache&logoColor=white" />&nbsp;&nbsp; 
 </p>
 
