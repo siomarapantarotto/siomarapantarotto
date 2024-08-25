@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/siomara-pantarotto-aa13a317a/"><img alt="" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=#2867B2"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:siomarapantarotto@gmail.com?subject=Git Cover Letter Contact"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/CintiaSiomara"><img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/CintiaSiomara"><img src="https://img.shields.io/badge/x.com-000000?&style=for-the-badge&logo=x&logoColor=white" /></a>  
+  <a href="https://x.com/CintiaSiomara"><img src="https://img.shields.io/badge/x-000000?&style=for-the-badge&logo=x&logoColor=white" /></a>  
 </p>
 
 <!-- RECENTLY STUFF... -->
