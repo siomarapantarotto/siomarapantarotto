@@ -35,7 +35,6 @@
 
 <h5><i>Mobile App Development.</i></h5>
 <p >
-  <img src="https://img.shields.io/badge/Jakarta-Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Dart-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
 </p>
@@ -59,7 +58,8 @@
   <img src="https://img.shields.io/badge/GitHub/GitLab-Git/Git%20Bash-4479A1?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Android%20Studio-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Intellij-IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp;&nbsp;  
+  <img src="https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/STS-Spring Tool Suite-5EAB4E?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;  
   <img src="https://img.shields.io/badge/Scrum Alliance-Agile-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Oracle-GlassFish-40D1F5?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;&nbsp;
 </p>
