@@ -56,11 +56,11 @@
 
 <h5><i>Version Control, IDEs and Others.</i></h5>
 <p >
-  <img src="https://img.shields.io/badge/GitHub/GitLab-Git/Git%20Bash-4479A1?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;  
+  <img src="https://img.shields.io/badge/GitHub/GitLab-Git/Git%20Bash-4479A1?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Intellij-IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp;&nbsp;  
   <img src="https://img.shields.io/badge/Scrum Alliance-Agile-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Oracle-GlassFish-40D1F5?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Intellij-IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <!-- SNOOPING AT... -->
