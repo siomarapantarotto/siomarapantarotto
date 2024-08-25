@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Express-Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JS-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JS-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TS%20Node-TypeScript-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TS-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JS-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
 </p>
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/pgAdmin-Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/DB-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MS-SQL%20Server-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ORM-Sequelize-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ORM-Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <h5><i>Mobile App Development</i></h5>
