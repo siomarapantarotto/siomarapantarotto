@@ -82,6 +82,7 @@
 <p >
   <img src="https://img.shields.io/badge/SBT-Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />&nbsp;&nbsp;  
   <img src="https://img.shields.io/badge/JWT-JSON%20Web%20Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/API-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <!-- FOOTER (Author / Visit My Online Resume / Download My PDF Resume) -->
