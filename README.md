@@ -46,6 +46,7 @@
 <p>
   <img src="https://img.shields.io/badge/Java-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Dart-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Themes-Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <h5><i>Java/Spring REST API Development</i></h5>
