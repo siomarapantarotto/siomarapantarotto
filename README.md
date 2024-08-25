@@ -18,6 +18,7 @@
 <h3>Here's all the stuff I've been doing recently...</h3>
 <h5><i>Java/Android Mobile App Development.</i></h5>
 <p >
+  <img src="https://img.shields.io/badge/Express-NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Jakarta-Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Android%20Studio-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Build%20Tool-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />&nbsp;&nbsp;
@@ -37,6 +38,7 @@
 </p>
 <h5><i>Others.</i></h5>
 <p >
+  <img src="https://img.shields.io/badge/Cloud-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub/GitLab-Git/Git%20Bash-4479A1?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/DB-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
@@ -49,9 +51,7 @@
 <hr>
 <h3>Here's what I am snooping at...</h3>
 <p >
-  <img src="https://img.shields.io/badge/SBT-Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Express-NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Cloud-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;  
+  <img src="https://img.shields.io/badge/SBT-Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />&nbsp;&nbsp;    
   <img src="https://img.shields.io/badge/Dart-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JWT-JSON%20Web%20Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />&nbsp;&nbsp;
 </p>
