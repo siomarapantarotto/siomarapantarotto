@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/pgAdmin-Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/DB-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MS-SQL%20Server-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ORM-Sequelize-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ORM-Sequelize-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <h5><i>Mobile App Development</i></h5>
