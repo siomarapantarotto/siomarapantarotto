@@ -42,7 +42,10 @@
 <h5><i>Java/Spring REST API Development.</i></h5>
 <p >
   <img src="https://img.shields.io/badge/Jakarta-Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/STS-Spring Boot-5EAB4E?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;   
+  <img src="https://img.shields.io/badge/STS-Spring Boot-5EAB4E?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/STS-Spring Data-5EAB4E?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/STS-Spring MVC-5EAB4E?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/STS-Spring Security JWT-5EAB4E?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;   
   <img src="https://img.shields.io/badge/Apache-Tomcat-F8DC75?style=for-the-badge&logo=apache&logoColor=white" />&nbsp;&nbsp; 
 </p>
 
