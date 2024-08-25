@@ -1,8 +1,8 @@
 <!-- HEADER (Who am I?) -->
 <h1 align='center'> Hello World! I'm SIOMARA CINTIA PANTAROTTO.</h1>
 <p align='center'>
-  Welcome to my Git<b>Hub</b>! Feel free to dig through my repositories and learn more about my skills.
-  <br/>BTW, I am a senior systems analyst working for the government in Brasilia, DF, Brazil. 
+  Welcome to my Git<b>Hub</b>! Feel free to dig through my repos and learn more about my skills.
+  <br/>BTW, I am a senior systems analyst currently living in Brasília, DF, Brazil. 
 </p>
 
 <!-- FIND ME ON... -->
@@ -81,8 +81,8 @@
 <h3>Here's what I am snooping at...</h3>
 <p >
   <img src="https://img.shields.io/badge/SBT-Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />&nbsp;&nbsp;  
-  <img src="https://img.shields.io/badge/JWT-JSON%20Web%20Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/API-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JWT-JSON%20Web%20Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <!-- FOOTER (Author / Visit My Online Resume / Download My PDF Resume) -->
