@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/TS-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JS-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Themes-Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <h5><i>SQL and NoSQL Databases</i></h5>
@@ -74,6 +75,12 @@
   <img src="https://img.shields.io/badge/STS-Spring Tool Suite-5EAB4E?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;  
   <img src="https://img.shields.io/badge/Scrum Alliance-Agile-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Oracle-GlassFish-40D1F5?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;&nbsp;
+</p>
+
+<h5><i>AI Prompt Engineering</i></h5>
+<p>
+  <img src="https://img.shields.io/badge/Open%20AI-ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AI-GitHub%20Copilot-000000?style=for-the-badge&logo=GitHubCopilot&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <!-- SNOOPING AT... -->
