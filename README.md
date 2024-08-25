@@ -17,9 +17,13 @@
 <hr>
 <h3>Here's all the stuff I've been doing ...</h3>
 
-<h5><i>Fullstack Development</i></h5>
+<h5><i>Web Development</i></h5>
 <p >
-  <img src="https://img.shields.io/badge/Express-NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Express-Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JS-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JS-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TS%20Node-TypeScript-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JS-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
 </p>
 
