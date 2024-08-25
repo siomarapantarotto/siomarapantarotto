@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/JS-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
 </p>
+
 <h5><i>SQL and NoSQL Databases</i></h5>
 <p>
   <img src="https://img.shields.io/badge/NoSQL-GCP%20Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;
@@ -39,11 +40,13 @@
   <img src="https://img.shields.io/badge/MongoDB%20ORM-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TS%20Node%20ORM-Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />&nbsp;&nbsp;
 </p>
+
 <h5><i>Mobile App Development</i></h5>
 <p>
   <img src="https://img.shields.io/badge/Java-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Dart-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
 </p>
+
 <h5><i>Java/Spring REST API Development</i></h5>
 <p>
   <img src="https://img.shields.io/badge/Jakarta-Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
@@ -53,6 +56,7 @@
   <img src="https://img.shields.io/badge/STS-Spring%20Security%20JWT-5EAB4E?style=for-the-badge&logo=spring%20security&logoColor=white" />&nbsp;&nbsp;   
   <img src="https://img.shields.io/badge/Apache-Tomcat-F8DC75?style=for-the-badge&logo=apache&logoColor=white" />&nbsp;&nbsp; 
 </p>
+
 <h5><i>Build and Testing Tools</i></h5>
 <p>
   <img src="https://img.shields.io/badge/Apache-Maven-C71A36?style=for-the-badge&logo=apache&logoColor=white" />&nbsp;&nbsp;
@@ -60,6 +64,7 @@
   <img src="https://img.shields.io/badge/QA-JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JSON-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />&nbsp;&nbsp;
 </p>
+
 <h5><i>Version Control, IDEs and Others</i></h5>
 <p>
   <img src="https://img.shields.io/badge/GitHub/GitLab-Git/Git%20Bash-4479A1?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
