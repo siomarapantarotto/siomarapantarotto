@@ -29,14 +29,15 @@
 
 <h5><i>SQL and NoSQL Databases</i></h5>
 <p >
-  <img src="https://img.shields.io/badge/GCP-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GCP-Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GCP-Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GCP-Firestore-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Mongoose-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/OCI-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/pgAdmin-Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/DB-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MS-SQL%20Server-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ORM-Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DB-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TS%20Node%20ORM-Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <h5><i>Mobile App Development</i></h5>
