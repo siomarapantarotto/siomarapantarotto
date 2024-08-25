@@ -38,16 +38,20 @@
   <img src="https://img.shields.io/badge/Jakarta-Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Android%20Studio-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Dart-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Build%20Tool-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <h5><i>Java/Spring REST API Development.</i></h5>
 <p >
   <img src="https://img.shields.io/badge/Jakarta-Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/STS-Spring Boot-5EAB4E?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;   
+  <img src="https://img.shields.io/badge/Apache-Tomcat-F8DC75?style=for-the-badge&logo=apache&logoColor=white" />&nbsp;&nbsp; 
+</p>
+
+<h5><i>Build and Testing Tools.</i></h5>
+<p >
+  <img src="https://img.shields.io/badge/Apache-Maven-C71A36?style=for-the-badge&logo=apache&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Build%20Tool-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JSON-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Apache-Tomcat-F8DC75?style=for-the-badge&logo=apache&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Apache-Maven-C71A36?style=for-the-badge&logo=apache&logoColor=white" />&nbsp;&nbsp; 
 </p>
 
 <h5><i>Version Control, IDEs and Others.</i></h5>
